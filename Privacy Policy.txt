@@ -1,0 +1,40 @@
+# Privacy Policy
+
+**Effective Date: 7/13/2025**
+
+Thank you for using our Catholic Bible Study App (“the App”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use the App.
+
+## 1. Information We Collect
+
+We collect the following types of data:
+
+- **Personal Data:** We do not require users to create accounts or provide identifying personal information. However, optional features (e.g., journaling or AI chat) may store data locally or via a secure database.
+- **Usage Data:** We may collect non-personal usage statistics, such as time spent in the app or feature clicks, to improve app functionality.
+- **Journal Entries:** If journaling is enabled, your reflections and study notes are stored privately and are never shared or accessed by us.
+- **AI Inputs:** Your interactions with the Bible Study Assistant (AI chat) are processed securely for the purpose of generating responses. Inputs are not stored long-term or used for marketing or profiling.
+
+## 2. How We Use Information
+
+We use collected data to:
+- Provide and improve the functionality of the app
+- Offer personalized scripture or saint recommendations
+- Support journaling and progress-tracking features
+
+We **do not** sell or share your data with third parties.
+
+## 3. Children's Privacy
+
+The app is intended for users age 13 and older. We do not knowingly collect data from children under 13. Parents may use the app with younger children under their supervision.
+
+## 4. Data Security
+
+We implement reasonable safeguards to protect user data, including encryption and secure storage for any saved content. No method of digital storage is 100% secure, and we encourage users to avoid sharing personal or sensitive information in journal entries.
+
+## 5. Changes to This Policy
+
+We may update this Privacy Policy to reflect changes in app functionality or legal requirements. We encourage users to review this page regularly.
+
+## 6. Contact Us
+
+If you have any questions about this policy, contact us at:  
+**camperofamilybusiness@gmail.com**
